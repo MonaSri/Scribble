@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--   <color name="colorPrimary">#3F51B5</color> -->
+
+    <!--  <color name="colorPrimaryDark">#303F9F</color> -->
+
+    <color name="colorPrimary2">#9c27b0</color>
+    <color name="colorPrimary">#d50000</color>
+    <color name="coloryPrimary">#9e9d24</color>
+
+    <color name="colorPrimaryDark2">#6a0080</color>
+    <color name="colorPrimaryDark">#9b0000</color>
+    <color name="coloryPrimaryDark">#cbc26d</color>
+
+    <color name="colorAccent">#FF4081</color>
+    <!-- <color name="colorBlue">#e8eaf6</color> -->
+    <color name="colorBlue2">#d05ce3</color>
+    <color name="colorBlue">#ff5131</color>
+    <color name="coloryBlue">#ffffcf</color>
+
+    <color name="edittxt">#7986cb</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorgreen">#76ff03</color>
+    <color name="colorOrange">#ff5722</color>
+    <color name="colorlblue">#9fa8da</color>
+
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="primaryyTextColor">#000000</color>
+    <color name="indigo">#000051</color>
+    <color name="pink">#880e4f</color>
+    <color name="olive">#524c00</color>
+
+</resources>
